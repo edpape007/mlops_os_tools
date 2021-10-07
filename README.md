@@ -4,7 +4,7 @@ This repository is to handle the code implemented for Edgardo Panza's thesis fro
 
 It is divided into 2 folders that represent 2 chapters of the document.
 
-## Chapter 9
+## Chapter 9
 
 In this folder you can find the code in jupyter notebooks that was used to create a machine learning model with the Cancer Breast dataset.
 
